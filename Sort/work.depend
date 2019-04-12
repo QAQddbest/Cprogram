@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1542207874 source:f:\cprogram\untitled2.c
+	"stdio.h"
+	"stdlib.h"
+	"time.h"
+
+1542294852 source:f:\works\work\øÏÀŸ≈≈–Ú.c
+	"stdio.h"
+	"time.h"
+	"stdlib.h"
+
+1542513474 source:f:\works\work\quick sort.c
+
+1542780485 source:f:\works\work\bubble sort.c
+
+1542888739 source:f:\works\work\main.c
+	"stdio.h"
+	"time.h"
+	"stdlib.h"
+
+1542780485 source:f:\works\work\selection sort.c
+
+1542780485 source:f:\works\work\insertion sort.c
+
+1542780486 source:f:\works\work\shell sort.c
+
+1542779954 source:f:\works\work\heap sort.c
+
+1542888788 source:f:\works\work\merge sort.c
+
+1542780485 source:f:\cprogram\attention______acm\sort\bubble sort.c
+
+1542779954 source:f:\cprogram\attention______acm\sort\heap sort.c
+
+1542780485 source:f:\cprogram\attention______acm\sort\insertion sort.c
+
+1542888788 source:f:\cprogram\attention______acm\sort\merge sort.c
+
+1542513474 source:f:\cprogram\attention______acm\sort\quick sort.c
+
+1542780485 source:f:\cprogram\attention______acm\sort\selection sort.c
+
+1542780486 source:f:\cprogram\attention______acm\sort\shell sort.c
+
+1554909747 source:f:\cprogram\attention______acm\sort\main.c
+	"sort.h"
+
+1554909747 f:\cprogram\attention______acm\sort\sort.h
+	"stdio.h"
+	"time.h"
+	"stdlib.h"
+
