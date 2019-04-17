@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1555172811 source:f:\cprogram\tree\non_recursiveversion.c
+
+1555160831 source:f:\cprogram\tree\recursiveversion.c
+
+1555165532 source:f:\cprogram\tree\main.c
+	"headFile.h"
+
+1555160543 f:\cprogram\tree\headfile.h
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
